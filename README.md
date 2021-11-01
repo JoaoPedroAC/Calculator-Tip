@@ -10,7 +10,7 @@ Graças a esse a projeto pude por em práticas lógicas matemáticas e aprofunda
 - Javascript.
 
 ## Página
-* [Acesse a página por aqui!](https://joaopedroac.github.io/Projetos/Calculator-Tip/)
+* [Acesse a página por aqui!](https://joaopedroac.github.io/Calculator-Tip/)
 
 # Screenshot
 ## Desktop
